@@ -5,6 +5,6 @@
 
   # propscode-source's Website
 
-  Visit **[dprm.propsocode.tech](http://dprm.propsocode.tech)** 🚀
+  Visit **[propscode-source.github.io/dprmunsri](https://propscode-source.github.io/dprmunsri)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
