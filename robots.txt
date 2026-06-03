@@ -1,1 +1,1 @@
-Sitemap: http://dprm.propsocode.tech/sitemap.xml
+Sitemap: https://propscode-source.github.io/dprmunsri/sitemap.xml
